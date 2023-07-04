@@ -1,0 +1,45 @@
+Base de datos Sakila
+
+1-Muestra los nombres de los actores en orden alfabético por su apellido.
+    Select first_name, last_name from actor
+    order by last_name;
+
+
+2-Muestra los nombres de las ciudades en orden alfabético.
+
+
+3-Muestra los nombres de las categorías en orden descendente. 
+
+4-Muestra los títulos de las películas en orden alfabético.
+
+5- Muestra los nombres de los clientes en orden descendente por su apellido.
+
+6-Muestra los nombres de los países en orden alfabético.
+
+7- Muestra los nombres de los idiomas en orden descendente.
+
+8- Muestra los nombres de las tiendas en orden alfabético.
+
+9- Muestra los nombres de los staffs en orden descendente por su apellido.
+
+10 - Muestra los nombres de las películas en orden alfabético inverso.
+
+11 - Muestra los nombres de los clientes en orden ascendente por su apellido.
+
+12- Muestra los nombres de las ciudades en orden descendente.
+
+13- Muestra los nombres de las categorías en orden alfabético inverso.
+
+14 - Muestra los nombres de las películas en orden descendente.
+
+15- Muestra los nombres de los clientes en orden alfabético por su nombre.
+
+16 - Muestra los nombres de los países en orden descendente.
+
+17 - Muestra los nombres de los idiomas en orden alfabético inverso.
+
+18- Muestra los nombres de las tiendas en orden ascendente.
+
+19- Muestra los nombres de los staffs en orden alfabético por su apellido.
+
+20-Muestra los nombres de las películas en orden descendente inverso.
